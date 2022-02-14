@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS Android Assignment</string>
+    <string name="most_popular">Most popular</string>
+    <string name="paying_now">Playing now</string>
+    <string name="movie_box">MOVIEBOX</string>
+    <string name="no_data_found_message">No data found</string>
+    <string name="adventure">ADVENTURE</string>
+    <string name="science_fication">SCIENCE FICTION</string>
+    <string name="action">ACTION</string>
+    <string name="albums">Albums</string>
+
+</resources>
